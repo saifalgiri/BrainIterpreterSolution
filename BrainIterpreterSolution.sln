@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainIterpreter", "BrainIterpreter\BrainIterpreter.csproj", "{9FCDD8EA-51E3-4106-86AA-A2D7D49B4709}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainInterpreterTest", "BrainInterpreterTest\BrainInterpreterTest.csproj", "{2E18070D-700B-4F53-97C2-0CBF0C27DDFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FCDD8EA-51E3-4106-86AA-A2D7D49B4709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FCDD8EA-51E3-4106-86AA-A2D7D49B4709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FCDD8EA-51E3-4106-86AA-A2D7D49B4709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FCDD8EA-51E3-4106-86AA-A2D7D49B4709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E18070D-700B-4F53-97C2-0CBF0C27DDFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E18070D-700B-4F53-97C2-0CBF0C27DDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E18070D-700B-4F53-97C2-0CBF0C27DDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E18070D-700B-4F53-97C2-0CBF0C27DDFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E770EAB9-5CD3-4F0C-8EC0-9E5908F111E2}
+	EndGlobalSection
+EndGlobal
